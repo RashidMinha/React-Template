@@ -13,3 +13,4 @@
 [2022-05-12 12:22:13] Activity: update config loading to speed up local runs (122213-13)
 [2022-05-12 17:36:55] Activity: rework data validation to tighten checks (173655-14)
 [2022-05-13 09:42:30] Activity: adjust deployment script for production parity (094230-15)
+[2022-05-13 12:22:32] Activity: fix docs examples for safer defaults (122232-16)
