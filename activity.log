@@ -22,3 +22,4 @@
 [2022-05-16 14:53:23] Activity: fix ui feedback for consistent behavior (145323-22)
 [2022-05-17 11:54:18] Activity: rework docs examples to improve readability (115418-23)
 [2022-05-17 12:17:50] Activity: cleanup logging flow for better stability (121750-24)
+[2022-05-17 14:28:29] Activity: fix api handlers for safer defaults (142829-25)
