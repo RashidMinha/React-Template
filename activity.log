@@ -78,3 +78,4 @@
 [2022-07-08 13:36:23] Activity: update deployment script to match latest changes (133623-78)
 [2022-07-08 14:50:13] Activity: polish docs examples to speed up local runs (145013-79)
 [2022-07-08 15:58:20] Activity: tweak task runner to tighten checks (155820-80)
+[2022-07-13 14:32:22] Activity: refactor auth checks to unblock next steps (143222-81)
