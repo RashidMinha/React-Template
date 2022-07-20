@@ -89,3 +89,4 @@
 [2022-07-20 10:16:57] Activity: tweak deployment script to tighten checks (101657-89)
 [2022-07-20 10:16:58] Activity: fix response formatting after review feedback (101658-90)
 [2022-07-20 10:16:59] Activity: adjust ui feedback for edge cases (101659-91)
+[2022-07-20 12:37:21] Activity: cleanup api handlers to match latest changes (123721-92)
