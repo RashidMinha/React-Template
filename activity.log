@@ -132,3 +132,4 @@
 [2022-08-22 09:17:56] Activity: tweak task runner after review feedback (091756-132)
 [2022-08-22 09:35:34] Activity: improve auth checks for cleaner output (093534-133)
 [2022-08-22 12:13:21] Activity: rework build setup to match latest changes (121321-134)
+[2022-08-22 12:51:22] Activity: adjust api handlers to speed up local runs (125122-135)
