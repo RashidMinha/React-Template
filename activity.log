@@ -263,3 +263,4 @@
 [2022-12-22 17:06:41] Activity: tweak data validation to reduce noise (170641-263)
 [2022-12-23 16:25:59] Activity: fix test coverage after review feedback (162559-264)
 [2022-12-28 14:06:20] Activity: rework error handling for cleaner output (140620-265)
+[2022-12-28 14:50:54] Activity: cleanup config loading to match latest changes (145054-266)
