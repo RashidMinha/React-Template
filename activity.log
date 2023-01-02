@@ -266,3 +266,4 @@
 [2022-12-28 14:50:54] Activity: cleanup config loading to match latest changes (145054-266)
 [2022-12-30 15:23:54] Activity: fix response formatting to speed up local runs (152354-267)
 [2022-12-30 17:47:00] Activity: optimize ui feedback for production parity (174700-268)
+[2023-01-02 11:49:45] Activity: tweak docs examples to unblock next steps (114945-269)
